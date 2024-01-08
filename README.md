@@ -8,3 +8,6 @@ Result will be created in the same folder as the script and should look like thi
 
 Adjust image size by changing line 83 
 figsize=(60, 24) 
+
+
+Requires pillow, pyproj and pyplot
